@@ -1,0 +1,9 @@
+<!-- 测试加载数据 -->
+<!-- 虽然我也看不懂这是啥标签 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+  <to>Mary</to>
+  <from>John</from>
+  <heading>Reminder</heading>
+  <body>Call Cindy on Tuesday</body>
+</note>
